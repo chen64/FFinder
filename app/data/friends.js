@@ -1,8 +1,8 @@
 var friends = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
-        "scores": [
+        name: "Ahmed",
+        photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        scores: [
         "5",
         "1",
         "4",
@@ -16,9 +16,9 @@ var friends = [
         ]
     },
     {
-        "name": "Jacob Deming",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        "scores": [
+        name: "Jacob Deming",
+        photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+        scores: [
         "4",
         "2",
         "5",
@@ -32,9 +32,9 @@ var friends = [
         ]
     },
     {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
-        "scores": [
+        name: "Jeremiah Scanlon",
+        photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        scores: [
         "5",
         "2",
         "2",
@@ -48,9 +48,9 @@ var friends = [
         ]
     },
     {
-        "name": "Louis T. Delia",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
-        "scores": [
+        name: "Louis T. Delia",
+        photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        scores: [
         "3",
         "3",
         "4",
@@ -64,9 +64,9 @@ var friends = [
         ]
     },
     {
-        "name": "Lou Ritter",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
-        "scores": [
+        name: "Lou Ritter",
+        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        scores: [
         "4",
         "3",
         "4",
@@ -80,9 +80,9 @@ var friends = [
         ]
     },
     {
-        "name": "Jordan Biason",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
-        "scores": [
+        name: "Jordan Biason",
+        photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+        scores: [
         "4",
         "4",
         "2",
@@ -96,9 +96,9 @@ var friends = [
         ]
     },
     {
-        "name": "dg",
-        "photo": "fdg",
-        "scores": [
+        name: "dg",
+        photo: "fdg",
+        scores: [
         "1",
         "1",
         "1",
@@ -112,9 +112,9 @@ var friends = [
         ]
     },
     {
-        "name": "matt",
-        "photo": "ladjf",
-        "scores": [
+        name: "matt",
+        photo: "ladjf",
+        scores: [
         "1",
         "1",
         "1",
@@ -128,9 +128,9 @@ var friends = [
         ]
     },
     {
-        "name": "C.RONALDO",
-        "photo": "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
-        "scores": [
+        name: "C.RONALDO",
+        photo: "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
+        scores: [
         "3",
         "2",
         "2",
@@ -144,9 +144,9 @@ var friends = [
         ]
     },
     {
-        "name": "C.RONALDO",
-        "photo": "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
-        "scores": [
+        name: "C.RONALDO",
+        photo: "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
+        scores: [
         "1",
         "1",
         "1",
@@ -160,9 +160,9 @@ var friends = [
         ]
     },
     {
-        "name": "WHAT EVER",
-        "photo": "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
-        "scores": [
+        name: "WHAT EVER",
+        photo: "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
+        scores: [
         "1",
         "1",
         "1",
@@ -176,9 +176,9 @@ var friends = [
         ]
     },
     {
-        "name": "WHAT EVER",
-        "photo": "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
-        "scores": [
+        name: "WHAT EVER",
+        photo: "https://i.ytimg.com/vi/CjVSR_amufI/hqdefault.jpg",
+        scores: [
         "1",
         "1",
         "1",
@@ -192,9 +192,9 @@ var friends = [
         ]
     },
     {
-        "name": "g",
-        "photo": "g",
-        "scores": [
+        name: "g",
+        photo: "g",
+        scores: [
         "3",
         "3",
         "3",
@@ -208,9 +208,9 @@ var friends = [
         ]
     },
     {
-        "name": "joe",
-        "photo": "photo.jpg",
-        "scores": [
+        name: "joe",
+        photo: "photo.jpg",
+        scores: [
         "3",
         "3",
         "3",
@@ -224,9 +224,9 @@ var friends = [
         ]
     },
     {
-        "name": "jojo",
-        "photo": "photo.jpg",
-        "scores": [
+        name: "jojo",
+        photo: "photo.jpg",
+        scores: [
         "5",
         "5",
         "5",
@@ -240,9 +240,9 @@ var friends = [
         ]
     },
     {
-        "name": "jojo",
-        "photo": "photo.jpg",
-        "scores": [
+        name: "jojo",
+        photo: "photo.jpg",
+        scores: [
         "5",
         "5",
         "5",
